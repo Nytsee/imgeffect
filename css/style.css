@@ -1,0 +1,25 @@
+body{
+margin:0;
+padding:0;
+}
+
+.elem_port{
+height:300px;
+width:300px;
+background:red;
+display:block;
+position:relative;
+/*margin:100px 100px;*/
+overflow:hidden;
+float:left;
+}
+
+.elem_port img{
+border:none;
+margin:0;
+padding:0;
+position:absolute;
+left:0;
+top:0;
+display:block;
+}
